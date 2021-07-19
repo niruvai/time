@@ -1,6 +1,6 @@
 """Speak the time."""
 
-import androidhelper
+
 
 import time
 
